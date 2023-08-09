@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Boluwatife to your new<br />SvelteKit app
+		Alewi to your<br />SvelteKit app
 	</h1>
 
 	<h2>
